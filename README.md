@@ -15,9 +15,10 @@ You will need:
 ## Demo
 
 Preferences payment flow:
-![Preferences](https://github.com/mandelbaummatias/MercadoPagoAPITest/assets/105255748/7eb18ada-9c1f-48ef-b718-1eeccc61c18d)
 
+![Preferences_30](https://github.com/mandelbaummatias/MercadoPagoAPITest/assets/105255748/74deff47-bb92-4fcd-a0a6-f0bd5c27c69d)
 
 
 Susbscription payment flow:
-![Subscription](https://github.com/mandelbaummatias/MercadoPagoAPITest/assets/105255748/e4f64bc7-255f-4f0a-96d0-c97a669a4097)
+
+![Subscription_30](https://github.com/mandelbaummatias/MercadoPagoAPITest/assets/105255748/1da5befe-ee53-42ab-ad01-abde6c28c41d)
