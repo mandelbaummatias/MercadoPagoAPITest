@@ -18,6 +18,10 @@ Preferences payment flow:
 
 ![Preferences_30](https://github.com/mandelbaummatias/MercadoPagoAPITest/assets/105255748/74deff47-bb92-4fcd-a0a6-f0bd5c27c69d)
 
+When returning from a preferences flow, you can get the data result:
+
+![log](https://github.com/mandelbaummatias/MercadoPagoAPITest/assets/105255748/3806c2d8-a113-4c2d-8b48-0810396a3740)
+
 
 Subscription payment flow:
 
