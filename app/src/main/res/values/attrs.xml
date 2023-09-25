@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="colorCustomBlue" format="color" />
+    <attr name="colorOnCustomBlue" format="color" />
+    <attr name="colorCustomBlueContainer" format="color" />
+    <attr name="colorOnCustomBlueContainer" format="color" />
+    <attr name="harmonizeCustomBlue" format="boolean" />
+</resources>

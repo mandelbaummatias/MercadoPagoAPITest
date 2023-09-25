@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MercadoPagoAPITest</string>
+    <string name="mercadopago_api_base_url">https://api.mercadopago.com/</string>
+    <string name="api_key">YOUR-ACCESS-TOKEN-HERE</string>
+    <string name="create_preferences">Create preferences</string>
+    <string name="create_subscription">Create subscription</string>
+</resources>
